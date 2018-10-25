@@ -1,0 +1,19 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "- Setting up GitHub\r - Learning Git ignore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdsuzie/Fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerdsuzie/Fundamentals/issues"
+  },
+  "homepage": "https://github.com/nerdsuzie/Fundamentals#readme"
+}
